@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "846675361900",
+    "project_id": "iugclod",
+    "storage_bucket": "iugclod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846675361900:android:83fd85bc6c86230ba61849",
+        "android_client_info": {
+          "package_name": "com.example.ass2cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846675361900-fcv02gvakv8on87ah9auvpsvrf1965ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCntOhMBvpBL9QcpQU1CJBinkZZTKiv3mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846675361900-fcv02gvakv8on87ah9auvpsvrf1965ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846675361900:android:ad48d9918f798fa2a61849",
+        "android_client_info": {
+          "package_name": "com.example.usersinfodb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846675361900-fcv02gvakv8on87ah9auvpsvrf1965ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCntOhMBvpBL9QcpQU1CJBinkZZTKiv3mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846675361900-fcv02gvakv8on87ah9auvpsvrf1965ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
